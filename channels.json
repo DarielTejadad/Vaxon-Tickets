@@ -1,9 +1,9 @@
 {
-  "welcome": "CHANNEL_ID_FOR_WELCOME_MESSAGES",
-  "Soporte General": "CHANNEL_ID_FOR_GENERAL_SUPPORT",
-  "Consultas sobre el Panel": "CHANNEL_ID_FOR_PANEL_QUERIES",
-  "VPS": "CHANNEL_ID_FOR_VPS_SUPPORT",
-  "Otros": "CHANNEL_ID_FOR_OTHER_QUERIES",
-  "Postulaciones": "CHANNEL_ID_FOR_APPLICATIONS",
-  "Patrocinios": "CHANNEL_ID_FOR_SPONSORSHIPS"
+  "welcome": "1440862621623521392",
+  "Soporte General": "1440863000323031112",
+  "Consultas sobre el Panel": "1440863000323031112",
+  "VPS": "1440863000323031112",
+  "Otros": "1440863000323031112",
+  "Postulaciones": "1440863000323031112",
+  "Patrocinios": "1440863000323031112"
 }
