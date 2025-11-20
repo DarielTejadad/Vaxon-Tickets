@@ -1,0 +1,9 @@
+{
+  "welcome": "CHANNEL_ID_FOR_WELCOME_MESSAGES",
+  "Soporte General": "CHANNEL_ID_FOR_GENERAL_SUPPORT",
+  "Consultas sobre el Panel": "CHANNEL_ID_FOR_PANEL_QUERIES",
+  "VPS": "CHANNEL_ID_FOR_VPS_SUPPORT",
+  "Otros": "CHANNEL_ID_FOR_OTHER_QUERIES",
+  "Postulaciones": "CHANNEL_ID_FOR_APPLICATIONS",
+  "Patrocinios": "CHANNEL_ID_FOR_SPONSORSHIPS"
+}
