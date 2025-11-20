@@ -1,0 +1,23 @@
+{
+  "name": "vaxon-cloud-support-bot",
+  "version": "1.0.0",
+  "description": "Vaxon Cloud Support Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["discord", "bot", "support", "vaxon-cloud"],
+  "author": "Vaxon Cloud",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}
